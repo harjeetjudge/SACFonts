@@ -2,8 +2,6 @@
 @font-face {
   font-family: 'SAP Fiori Icons';
   src:
-    url('https://github.com/harjeetjudge/SACFonts/SAP-icons.woff2') format('woff2'),
-    url('https://github.com/harjeetjudge/SACFonts/SAP-icons.woff') format('woff'),
     url('https://github.com/harjeetjudge/SACFonts/SAP-icons.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
